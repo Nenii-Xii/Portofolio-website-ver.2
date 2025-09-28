@@ -1,9 +1,11 @@
 # Portofolio-website-ver.2
 Website Portofolio Pribadi - Neni Galuh Putri Anyeler
+<br>
 Selamat datang di repositori kode untuk website portofolio pribadi saya. Proyek ini dibangun dari awal untuk menampilkan perjalanan, keterampilan, dan pengalaman saya di dunia teknologi dan administrasi.
 <br>
 ✨ Live Demo
 Anda dapat melihat hasil akhir dari proyek ini yang sudah di-deploy secara online pada link di bawah ini:
+<br>
 ➡️ [https://nenianyeler.netlify.app/#home]
 <br>
 <div align="center">
