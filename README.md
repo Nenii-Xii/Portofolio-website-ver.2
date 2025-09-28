@@ -4,7 +4,7 @@ Selamat datang di repositori kode untuk website portofolio pribadi saya. Proyek 
 <br>
 ✨ Live Demo
 Anda dapat melihat hasil akhir dari proyek ini yang sudah di-deploy secara online pada link di bawah ini:
-➡️ [MASUKKAN LINK HASIL DEPLOY ANDA DI SINI]
+➡️ [https://nenianyeler.netlify.app/#home]
 <br>
 <div align="center">
 <img src="https://i.imgur.com/8i9YyI2.png" alt="Tampilan Screenshot Portofolio" width="700"/>
